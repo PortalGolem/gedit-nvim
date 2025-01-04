@@ -1,0 +1,1 @@
+This is a simple nvim config that I set up with the help of tutorials by [typecraft](https://www.youtube.com/@typecraft_dev). Im mostly putting it here to sync across devices and it is only slightly modified to work with C/C++ and whatever else I happen to use.
